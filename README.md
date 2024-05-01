@@ -40,4 +40,13 @@ Git as a time machine for your code. It keeps track of every change you make to 
 
 
       Replace "Your commit message" with a brief description of the changes you've made.
+
+   6. Checking Status and History:
+    • To see the status of your repository (which files have been modified, staged, or committed), use:
+      
+      git status
+
+    • To view the commit history, including commit messages and changes made, run:
+      
+      git log
    
