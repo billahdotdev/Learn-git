@@ -18,5 +18,9 @@ Git as a time machine for your code. It keeps track of every change you make to 
    
       Replace "Your Name" and "youremail@example.com" with your actual name and email address.
 
-
+3. Initializing a Repository:
+    • To start using Git in a project, navigate to its directory in your terminal or command prompt and run:
+      
+      git init
+      This command initializes a new Git repository in the current directory.
 
