@@ -11,10 +11,10 @@ Git as a time machine for your code. It keeps track of every change you make to 
 
 2. Configuring Git:
 
-• After installing Git, you should configure your username and email address using the following commands:
-      
-git config --global user.name "Your Name"
-git config --global user.email "youremail@example.com"
-Replace "Your Name" and "youremail@example.com" with your actual name and email address.
+      • After installing Git, you should configure your username and email address using the following commands:
+            
+      git config --global user.name "Your Name"
+      git config --global user.email "youremail@example.com"
+      Replace "Your Name" and "youremail@example.com" with your actual name and email address.
 
 
