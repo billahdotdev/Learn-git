@@ -26,4 +26,8 @@ Git as a time machine for your code. It keeps track of every change you make to 
    
       This command initializes a new Git repository in the current directory.
 
-
+4. Adding Files:
+    • After initializing the repository, you can start adding files to it. Use the following command to add a file to the staging area (prepare it for a commit):
+      
+      git add filename
+      Replace "filename" with the name of the file you want to add.
