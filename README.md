@@ -15,3 +15,4 @@ straightforward.
       git config --global user.name "Your Name"
       git config --global user.email "youremail@example.com"
       Replace "Your Name" and "youremail@example.com" with your actual name and email address.
+
