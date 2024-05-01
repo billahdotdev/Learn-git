@@ -36,7 +36,7 @@ Git as a time machine for your code. It keeps track of every change you make to 
 5. Making Commits:
     • Once you've added files to the staging area, you can create a commit with a message describing the changes. Use the following command:
       
-      git commit -m "Your commit message"
+            git commit -m "Your commit message"
 
 
       Replace "Your commit message" with a brief description of the changes you've made.
