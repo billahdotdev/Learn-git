@@ -4,6 +4,12 @@ Git as a time machine for your code. It keeps track of every change you make to 
 
 
 1. Installing Git:
-    • First, you need to install Git on your computer. You can download it from the official website (https://git-scm.com/), and the installation process is usually 
-    straightforward.
+• First, you need to install Git on your computer. You can download it from the official website (https://git-scm.com/), and the installation process is usually 
+straightforward.
 
+2. Configuring Git:
+    • After installing Git, you should configure your username and email address using the following commands:
+      
+      git config --global user.name "Your Name"
+      git config --global user.email "youremail@example.com"
+      Replace "Your Name" and "youremail@example.com" with your actual name and email address.
