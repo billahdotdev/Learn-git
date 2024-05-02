@@ -51,7 +51,7 @@ Git as a time machine for your code. It keeps track of every change you make to 
       
             git log
    
-   7. Branching and Merging:
+7. Branching and Merging:
       
     • Branching allows you to work on different features or fixes independently. To create a new branch, use:
       
