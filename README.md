@@ -153,3 +153,5 @@ Git as a time machine for your code. It keeps track of every change you make to 
     • Git hooks are scripts that run automatically in response to certain actions in Git. They allow you to customize and automate your workflow.
     
     • Examples of Git hooks include pre-commit (runs before a commit is created) and post-merge (runs after a successful merge).
+
+
