@@ -68,7 +68,7 @@ Git as a time machine for your code. It keeps track of every change you make to 
             git merge branchname
 
 8. Remote Repositories and Collaboration:
-9. 
+
     • You can collaborate with others by using remote repositories hosted on platforms like GitHub or GitLab.
    
     • To add a remote repository, use:
