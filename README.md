@@ -163,3 +163,8 @@ Git as a time machine for your code. It keeps track of every change you make to 
     
     • Each workflow defines a set of rules and best practices for collaborating on a project using Git.
 
+
+17. Continuous Integration and Deployment (CI/CD):
+    • Git integrates with CI/CD systems like Jenkins, Travis CI, and CircleCI to automate the testing and deployment of your code.
+    • These systems can be configured to trigger builds and tests whenever changes are pushed to a repository, ensuring code quality and facilitating rapid deployment.
+
