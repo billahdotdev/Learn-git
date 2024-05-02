@@ -61,8 +61,8 @@ Git as a time machine for your code. It keeps track of every change you make to 
       Replace "branchname" with the name of your new branch.
     • To switch to a different branch, use:
       
-      git checkout branchname
+            git checkout branchname
       
     • After making changes in a branch, you can merge those changes back into another branch (often the main branch) using:
       
-      git merge branchname
+            git merge branchname
