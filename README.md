@@ -106,3 +106,5 @@ Git as a time machine for your code. It keeps track of every change you make to 
     • If you want to unstage a file that you previously added, you can use:
       
             git reset HEAD filename
+
+
