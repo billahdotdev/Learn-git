@@ -175,7 +175,7 @@ Git as a time machine for your code. It keeps track of every change you make to 
 
 
 18. Git Aliases:
-19. 
+
     • Git aliases allow you to create shortcuts for frequently used Git commands or command sequences.
     
     • For example, you can create an alias named co for checkout using:
@@ -184,3 +184,10 @@ Git as a time machine for your code. It keeps track of every change you make to 
 
     
     • You can then use git co instead of git checkout.
+
+
+19. Learning Resources:
+    
+    • Git Pro book: https://git-scm.com/book/en/v2
+    
+    • Git tutorials on GitHub: https://try.github.io/
