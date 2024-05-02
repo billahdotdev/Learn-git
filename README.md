@@ -97,4 +97,12 @@ Git as a time machine for your code. It keeps track of every change you make to 
             secret.txt
 
    
-   
+10. Undoing Changes:
+    
+    • If you want to discard changes made to a file and revert it to the last committed version, you can use:
+      
+            git checkout -- filename
+    
+    • If you want to unstage a file that you previously added, you can use:
+      
+            git reset HEAD filename
