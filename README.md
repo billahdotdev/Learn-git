@@ -116,7 +116,7 @@ Git as a time machine for your code. It keeps track of every change you make to 
             git add -i
 
     
-13. Rewriting History:
+12. Rewriting History:
  
     • You can rewrite the commit history using commands like
     
