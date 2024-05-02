@@ -139,3 +139,10 @@ Git as a time machine for your code. It keeps track of every change you make to 
       
             git tag -a tagname -m "Tag message"
 
+14. Git GUI:
+    
+    • While most Git commands are executed via the command line, there are also graphical user interfaces (GUIs) available for Git.
+    
+    • Examples include GitKraken, Sourcetree, and GitHub Desktop. These tools provide a visual representation of your repository and often include
+    
+    additional features like drag-and-drop commits and conflict resolution.
