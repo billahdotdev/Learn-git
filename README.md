@@ -126,3 +126,16 @@ Git as a time machine for your code. It keeps track of every change you make to 
     
     • Rewriting history can be useful for cleaning up commits, squashing multiple commits into one, or reordering commits.
 
+
+13. Tags:
+    
+    • Git tags are pointers to specific commits in the repository. They're commonly used to mark release points or significant milestones.
+    
+    • To create a lightweight tag (just a pointer), use:
+      
+            git tag tagname
+    
+    • To create an annotated tag (contains additional information like tagger name and date), use:
+      
+            git tag -a tagname -m "Tag message"
+
