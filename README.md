@@ -155,3 +155,10 @@ Git as a time machine for your code. It keeps track of every change you make to 
     • Examples of Git hooks include pre-commit (runs before a commit is created) and post-merge (runs after a successful merge).
 
 
+16. Git Workflows:
+    
+    • There are various Git workflows tailored to different development scenarios, such as the Centralized Workflow, Feature Branch Workflow,
+    
+    Gitflow Workflow, and Forking Workflow.
+    
+    • Each workflow defines a set of rules and best practices for collaborating on a project using Git.
