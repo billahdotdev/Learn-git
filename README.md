@@ -107,4 +107,10 @@ Git as a time machine for your code. It keeps track of every change you make to 
       
             git reset HEAD filename
 
-
+11. Interactive Staging:
+    
+    • Git offers an interactive mode for staging changes, which allows you to selectively stage portions of a file instead of the entire file.
+    
+    • Use the following command to enter interactive staging mode:
+      
+            git add -i
