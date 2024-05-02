@@ -87,10 +87,12 @@ Git as a time machine for your code. It keeps track of every change you make to 
             git pull origin branchname
 
 9. Ignoring Files:
+10. 
     • You can specify files or directories to be ignored by Git using a .gitignore file. This is useful for excluding temporary files, build artifacts, or sensitive data.
+    
     • Create a .gitignore file in your project directory and list the files or patterns to ignore. For example:
       
-      *.log
-      build/
-      secret.txt
+            *.log
+            build/
+            secret.txt
    
