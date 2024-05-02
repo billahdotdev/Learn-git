@@ -68,18 +68,20 @@ Git as a time machine for your code. It keeps track of every change you make to 
             git merge branchname
 
 8. Remote Repositories and Collaboration:
+9. 
     • You can collaborate with others by using remote repositories hosted on platforms like GitHub or GitLab.
+   
     • To add a remote repository, use:
       
-      git remote add origin remote_repository_url
+            git remote add origin remote_repository_url
 
       Replace "remote_repository_url" with the URL of the remote repository.
 
     • To push your changes to the remote repository, use:
       
-      git push -u origin branchname
+            git push -u origin branchname
       
 
     • To fetch changes from the remote repository and merge them into your local branch, use:
       
-      git pull origin branchname
+            git pull origin branchname
