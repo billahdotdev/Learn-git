@@ -162,3 +162,4 @@ Git as a time machine for your code. It keeps track of every change you make to 
     Gitflow Workflow, and Forking Workflow.
     
     • Each workflow defines a set of rules and best practices for collaborating on a project using Git.
+
