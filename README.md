@@ -120,7 +120,7 @@ Git as a time machine for your code. It keeps track of every change you make to 
  
     • You can rewrite the commit history using commands like
     
-       git commit --amend, git rebase, or git cherry-pick.
+          git commit --amend, git rebase, or git cherry-pick.
     
     However, use these commands with caution, especially if you've already shared your changes with others.
     
