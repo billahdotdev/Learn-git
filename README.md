@@ -184,9 +184,10 @@ Git as a time machine for your code. It keeps track of every change you make to 
 
     
     • You can then use git co instead of git checkout.
+    
 
 
-19. Learning Resources:
+20. Learning Resources:
     
     • Git Pro book: https://git-scm.com/book/en/v2
     
