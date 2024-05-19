@@ -33,7 +33,7 @@ Git as a time machine for your code. It keeps track of every change you make to 
    
       Replace "filename" with the name of the file you want to add.
 
-5. Making Commits:
+6. Making Commits:
     • Once you've added files to the staging area, you can create a commit with a message describing the changes. Use the following command:
       
             git commit -m "Your commit message"
@@ -41,7 +41,7 @@ Git as a time machine for your code. It keeps track of every change you make to 
 
       Replace "Your commit message" with a brief description of the changes you've made.
 
-6. Checking Status and History:
+7. Checking Status and History:
  
     • To see the status of your repository (which files have been modified, staged, or committed), use:
       
@@ -51,7 +51,7 @@ Git as a time machine for your code. It keeps track of every change you make to 
       
             git log
    
-7. Branching and Merging:
+8. Branching and Merging:
       
     • Branching allows you to work on different features or fixes independently. To create a new branch, use:
       
@@ -67,7 +67,7 @@ Git as a time machine for your code. It keeps track of every change you make to 
       
             git merge branchname
 
-8. Remote Repositories and Collaboration:
+9. Remote Repositories and Collaboration:
 
     • You can collaborate with others by using remote repositories hosted on platforms like GitHub or GitLab.
    
