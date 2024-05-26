@@ -183,7 +183,7 @@ Git as a time machine for your code. It keeps track of every change you make to 
             git config --global alias.co checkout
 
     
-    • You can then use git co instead of git checkout.
+    • You can then use git co instead of git checkout.   
 
 
 
